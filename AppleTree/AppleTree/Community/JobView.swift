@@ -2,7 +2,7 @@
 //  JobView.swift
 //  sample
 //
-//  Created by danny.ho_2PC on 2022/11/14.
+//  Created by l1004ga on 2022/11/14.
 //
 
 import SwiftUI
