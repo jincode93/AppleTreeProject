@@ -1,5 +1,18 @@
 # prototype-s2-20221114-team07: 봉혜미, 신미지, 이진아, 진준호, 진태영
 
+# 스크린샷
+<img width="293" alt="스크린샷 2022-11-30 오후 10 40 26" src="https://user-images.githubusercontent.com/111134273/204811718-b695d276-19d1-4fb5-a4fa-8046e31a842a.png"> <img width="293" alt="스크린샷 2022-11-30 오후 10 40 36" src="https://user-images.githubusercontent.com/111134273/204811732-b97de01c-5cb3-4326-ab9a-c5a56fe873d1.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 40 42" src="https://user-images.githubusercontent.com/111134273/204811742-145e0af8-b623-4d17-970b-51e22c3412f8.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 40 52" src="https://user-images.githubusercontent.com/111134273/204811776-5538eb3b-1e8a-486b-acd3-e2efbc3b7d71.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 41 04" src="https://user-images.githubusercontent.com/111134273/204811796-3dc17de1-6b6b-4baf-bd65-bcd416bb57e0.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 41 10" src="https://user-images.githubusercontent.com/111134273/204811814-87249e40-817c-49d9-880b-43177fe00dce.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 41 22" src="https://user-images.githubusercontent.com/111134273/204811829-87d96cff-3b2d-4997-993d-d2046a2a841a.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 41 27" src="https://user-images.githubusercontent.com/111134273/204811858-2537fedd-6faa-4c52-8ebf-4c7704148f35.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 41 38" src="https://user-images.githubusercontent.com/111134273/204811888-7b5b0379-c037-4d9d-8bd1-3be727e50f4c.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 42 05" src="https://user-images.githubusercontent.com/111134273/204811898-001c09f9-7158-4c94-87e0-c887d9239129.png">
+<img width="293" alt="스크린샷 2022-11-30 오후 10 42 19" src="https://user-images.githubusercontent.com/111134273/204811921-0b2c27e2-ac29-4a3a-95a5-c46188a7d85c.png">
+
+
 # 앱 정의 문장(ADS)
 - 이 앱은 iOS 개발자들이 필요한 정보를 공유하는 앱
 - 왜냐하면, 국내 iOS 개발자끼리 정보를 공유할 수 있는 곳이 많지 않기 때문이다.
